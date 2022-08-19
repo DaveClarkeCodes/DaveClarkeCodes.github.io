@@ -3,8 +3,14 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+.group1, .group2 {
+    text-align: center;
+    background-color: aquamarine;
+    color: black;
+}
 .group1 {
-  text-align: center;
-  background-color: aquamarine;
-  color: black;
-  font-size: 10vw;
+    font-size: 10vw;
+}
+.group2 {
+    font-size: 5vw;
+}
