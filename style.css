@@ -1,11 +1,13 @@
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
-    display: table;
+
 }
-h1 {
-    font-size: 10vw;
+section.group1 {
+    background-color: aqua;
+    text-align: center;
+    font-size: 7vw;
 }
-h2 {
-    font-size: 5vw;
+section.group2 {
+    font-size: 2vw;
 }
